@@ -1,0 +1,5 @@
+Ivanov  Ivan    27  Brest	
+Ivanov  Ivan    32  Vitebsk	
+Petrov  Sergey  28  Grodno	
+Potapov Andrey  29  Gomel	
+Zverev  Petr    21  Minsk	
